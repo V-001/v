@@ -29,53 +29,46 @@ plugins:
         "Example Schedules/index.md": "*subfolder"
       tags_allowed:
         - Circuits
-        - Analog circuits
-        - Digital circuits
         - Electromagnetics
-        - Computer architecture
-        - Digital design
-        - Signal processing
-        - Communications
-        - Computer systems
-        - Software
-        - Digital signal processing
-        - Image processing
-        - Random processes
         - Radio frequency
-        - Remote sensing
         - Optics
-        - Power
-        - Power systems
-        - Electric machines
-        - Circuits
-        - Renewable energy
-        - Power electronics
         - Semiconductors
-        - Semiconductor fabrication
-        - Microelectronics
-        - Photonics
-        - Integrated circuits
-        - Antennas
-        - Algorithms
-        - Hardware
-        - Computer systems
-        - Embedded systems
-        - Operating systems
-        - Semiconductor modeling
+        - Power
+        - Communications
         - Control systems
+        - Robotics
+        - Signal processing
+        - Acoustics
+        - Bioengineering
+
+        - Artificial intelligence and machine learning
+        - Digital design and computer architecture
+        - Systems
+        - Networking
+        - Security
+        - Quantum computing
+
+        - Theoretical computer science
+        - Software engineering
+        - Numerical analysis
+        - Parallel programming
+        - Programming languages and compilers
+
         - Research
         - Senior design
-        - Data structures
-        - Discrete math
+
         - Calculus
         - Differential equations
         - Linear algebra
         - Analysis
-        - Mechanics
-        - Thermodynamics
-        - Statistical mechanics
-        - Relativity
+        - Probability
+        - Data science
+
+        - Classical mechanics
+        - Thermal and statistical physics
         - Quantum mechanics
+        - Relativity
+
   - git-revision-date-localized
   - mkdocs-simple-hooks:
       hooks:
@@ -83,5 +76,9 @@ plugins:
   - redirects:
       redirect_maps:
         "Course Wiki/CS Course Offerings/CS483.md": "Course Wiki/ECE Course Offerings/ECE408.md"
+        "Course Wiki/CS Course Offerings/CS446.md": "Course Wiki/ECE Course Offerings/ECE449.md"
+        "Course Wiki/CS Course Offerings/CS440.md": "Course Wiki/ECE Course Offerings/ECE448.md"
+        "Course Wiki/CS Course Offerings/CS461.md": "Course Wiki/ECE Course Offerings/ECE422.md"
 markdown_extensions:
   - footnotes
+  - pymdownx.tilde

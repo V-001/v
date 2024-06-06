@@ -37,17 +37,19 @@ There are 2 midterm exams and 1 final exam, all taken through Prarielearn at the
 
 There are 3 bi-weekly labs.
 
+There are 7 weekly discussions. These are extremely helpful in getting detailed explanations and clarification from the TAs. 
+
 ## Instructors
 
 In the past, this course has been taught by Professors Wagner and Covey.
 
 ## Course Tips
 
-The key to this course is the equation sheet. Learn how to use all the equations and the homework/exams should be fairly simple. There are also provided practice exams released prior to the real thing. They are usually very similar to the actual exam, so they are the best tool to study.
+The key to this course is the equation sheet. Learn how to use all the equations and the homework/exams should be fairly simple. There are also provided practice exams released prior to the real thing. They are usually very similar to the actual exam, so they are the best tool to study. Out of the discussion worksheets, smartPhysics homeworks, and exams, discussion worksheets are the most difficult and exams are the least difficult. So if you understand the discussions and homeworks, you will do fine on exams.
 
 ## Life After
 
-The introduction to waves and the weird world of quantum physics leads into EE courses such as [ECE329](../ECE%20Course%20Offerings/ECE329.md) and [ECE340](../ECE%20Course%20Offerings/ECE340.md). Students wishing to go more in-depth into quamtum phsyics should look into the dedicated physics courses, [PHYS486](PHYS486.md) and [PHYS487](PHYS487.md).
+The introduction to waves and the weird world of quantum physics leads into EE courses such as [ECE329 - Fields and Waves I](../ECE%20Course%20Offerings/ECE329.md) and [ECE340 - Semiconductor Electronics](../ECE%20Course%20Offerings/ECE340.md). Students wishing to go more in-depth into quantum physics should look into the dedicated physics courses, [PHYS486 - Quantum Physics I](PHYS486.md) and [PHYS487 - Quantum Physics II](PHYS487.md). There is also a relatively new course: [PHYS 370 - Intro to Quantum Information and Computing](PHYS370.md), which serves as an introduction to quantum computing.
 
 ## Infamous Topics
 
